@@ -1,6 +1,7 @@
 # Pencegahan Penularan
 
 ![Tubercolusis](img/preventive.jpg)
+<small><i>Medical photo created by <a href='https://www.freepik.com/photos/medical'>freepik</a></i></small>
 
 Tuberkulosis (TB) adalah suatu penyakit menular yang disebabkan oleh bakteri Mycobacterium tuberculosis, yang dapat menyerang berbagai organ, terutama paru-paru. TB umumnya ditularkan melalui udara. Ketika penderita TB aktif memercikkan lendir atau dahak saat batuk atau bersin, kuman TB akan ikut keluar melalui lender/dahak tersebut, dan terbawa udara. Kemudian kuman TB akan masuk ke tubuh orang lain melalui udara yang dihirupnya. Pencegahan penularan TB termasuk menerapkan perilaku hidup bersih dan sehat, etika berbatuk, menjaga rumah tetap sehat, meningkatan daya tahan tubuh, pengobatan penyakit penyerta TB, dan pencegahan dan pengendalian infeksi TB.
 
